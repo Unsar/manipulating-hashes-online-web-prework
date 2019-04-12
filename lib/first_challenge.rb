@@ -18,4 +18,4 @@ contacts.each do |person, info|
         value.delete_if {|flavor| flavor=="strawberry"}
       end 
     end
-
+end
